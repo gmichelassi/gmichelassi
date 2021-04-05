@@ -1,10 +1,20 @@
 ![image](./header.png)
 
-😄 *Pronouns: he/him* \
 :mortar_board: *Information Systems student at <a href="https://www5.usp.br/">University of São Paulo</a>* \
 :computer: *Software Developer at <a href="https://www.sintesejr.com.br/">Síntese jr.</a>*
 
-###📫 How to reach me:
+```python
+gabriel_personal_info = {
+    pronouns: 'he' | 'him',
+    age: 20,
+    relationship_status: 'single',
+    song: 'https://www.youtube.com/watch?v=36tggrpRoTI',
+    movie: 'About Time',
+    free_time_activities: ['play games', 'read', 'TV Shows', 'Movies']
+}
+```
+
+### How to reach me:
 
 [![image](https://img.shields.io/badge/gabrielmichelassi@usp.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmichelassi@usp.br) \
 [![image](https://img.shields.io/badge/gmichelassi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gmichelassi/) \
@@ -26,23 +36,8 @@
 ![CPP](https://img.shields.io/badge/-C++-44475a?style=flat-square&logo=c%2B%2B&logoColor=7dd7c6)
 ![Unity](https://img.shields.io/badge/-Unity-44475a?style=flat-square&logo=unity&logoColor=7dd7c6)
 
-### Here are some info about my github page
+### Here are some info about my github profile
 
 ![Gabriel's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmichelassi&theme=nightowl&layout=compact&langs_count=6)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmichelassi&theme=nightowl&show_icons=true&count_private=true)
-
-<!--
-**gmichelassi/gmichelassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
