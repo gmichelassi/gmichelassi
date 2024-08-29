@@ -1,14 +1,14 @@
 ![image](./header.png)
 
 :mortar_board: *Information Systems student at <a href="https://www5.usp.br/">University of São Paulo</a>* \
-:computer: *Software Developer at <a href="https://www.sintesejr.com.br/">Síntese jr.</a>*
+:computer: *Software Developer at <a href="https://www.linkedin.com/company/zrptech/">ZRP</a>*
 
 ```python
 gabriel_personal_info = {
     pronouns: 'he' | 'him',
     age: 21,
     relationship_status: 'single',
-    song: 'https://www.youtube.com/watch?v=36tggrpRoTI',
+    song: 'https://www.youtube.com/watch?v=RQMz4JDbtmI',
     movie: 'About Time',
     free_time_activities: ['play games', 'read', 'TV Shows', 'Movies']
 }
