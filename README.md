@@ -1,8 +1,5 @@
 ![image](./header.png)
 
-:mortar_board: *Information Systems student at <a href="https://www5.usp.br/">University of São Paulo</a>* \
-:computer: *Software Developer at <a href="https://www.linkedin.com/company/zrptech/">ZRP</a>*
-
 ```python
 gabriel_personal_info = {
     pronouns: 'he' | 'him',
